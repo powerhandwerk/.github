@@ -2,7 +2,7 @@
 
 # powerhandwerk
 
-**Wer in deiner Nähe sucht, soll deinen Betrieb finden.**
+**Endlich gefunden werden.**
 
 powerhandwerk macht online unsichtbare Handwerksbetriebe lokal bei Google sichtbar.
 Website und Google-Profil, die zusammenpassen.
